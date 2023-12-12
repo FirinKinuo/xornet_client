@@ -24,7 +24,7 @@ export class Discord {
 			buttons: [
 				{
 					label: "See Machine",
-					url: `https://otiskujawa.net/xornet/#/dashboard/machines/machine/${machine.uuid}`,
+					url: `https://xornet.fkinuo.ru/#/dashboard/machines/machine/${machine.uuid}`,
 				},
 			],
 		});

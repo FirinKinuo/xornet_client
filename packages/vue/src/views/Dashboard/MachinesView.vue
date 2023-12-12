@@ -18,11 +18,11 @@ onMounted(() => {
 		buttons: [
 			{
 				label: "Website",
-				url: "https://otiskujawa.net/xornet/",
+				url: "https://xornet.fkinuo.ru/",
 			},
 			{
 				label: "GitHub",
-				url: "https://github.com/otiskujawa/",
+				url: "https://github.com/FirinKinuo/",
 			},
 		],
 	});
